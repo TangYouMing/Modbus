@@ -1,0 +1,132 @@
+E:\2、Project\C#\Modbus软件\(20-05-22-11-20)串口修复 - 副本\bin\Debug\Modbus软件.exe.config
+E:\2、Project\C#\Modbus软件\(20-05-22-11-20)串口修复 - 副本\bin\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-22-11-20)串口修复 - 副本\bin\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-05-22-11-20)串口修复 - 副本\obj\Debug\Interop.COMSVCSLib.dll
+E:\2、Project\C#\Modbus软件\(20-05-22-11-20)串口修复 - 副本\obj\Debug\Modbus软件.csproj.ResolveComReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-22-11-20)串口修复 - 副本\obj\Debug\Modbus软件.Form1.resources
+E:\2、Project\C#\Modbus软件\(20-05-22-11-20)串口修复 - 副本\obj\Debug\Modbus软件.Properties.Resources.resources
+E:\2、Project\C#\Modbus软件\(20-05-22-11-20)串口修复 - 副本\obj\Debug\Modbus软件.csproj.GenerateResource.cache
+E:\2、Project\C#\Modbus软件\(20-05-22-11-20)串口修复 - 副本\obj\Debug\Modbus软件.csproj.CoreCompileInputs.cache
+E:\2、Project\C#\Modbus软件\(20-05-22-11-20)串口修复 - 副本\obj\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-22-11-20)串口修复 - 副本\obj\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-05-22-11-20)串口修复 - 副本\obj\Debug\Modbus软件.csprojAssemblyReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-22-14-37)设置文件修复 - 副本\bin\Debug\Modbus软件.exe.config
+E:\2、Project\C#\Modbus软件\(20-05-22-14-37)设置文件修复 - 副本\bin\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-22-14-37)设置文件修复 - 副本\bin\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-05-22-14-37)设置文件修复 - 副本\obj\Debug\Modbus软件.csprojAssemblyReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-22-14-37)设置文件修复 - 副本\obj\Debug\Interop.COMSVCSLib.dll
+E:\2、Project\C#\Modbus软件\(20-05-22-14-37)设置文件修复 - 副本\obj\Debug\Modbus软件.csproj.ResolveComReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-22-14-37)设置文件修复 - 副本\obj\Debug\Modbus软件.Form1.resources
+E:\2、Project\C#\Modbus软件\(20-05-22-14-37)设置文件修复 - 副本\obj\Debug\Modbus软件.Properties.Resources.resources
+E:\2、Project\C#\Modbus软件\(20-05-22-14-37)设置文件修复 - 副本\obj\Debug\Modbus软件.csproj.GenerateResource.cache
+E:\2、Project\C#\Modbus软件\(20-05-22-14-37)设置文件修复 - 副本\obj\Debug\Modbus软件.csproj.CoreCompileInputs.cache
+E:\2、Project\C#\Modbus软件\(20-05-22-14-37)设置文件修复 - 副本\obj\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-22-14-37)设置文件修复 - 副本\obj\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-05-22-18-00)设置文件修复 - 副本\bin\Debug\Modbus软件.exe.config
+E:\2、Project\C#\Modbus软件\(20-05-22-18-00)设置文件修复 - 副本\bin\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-22-18-00)设置文件修复 - 副本\bin\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-05-22-18-00)设置文件修复 - 副本\obj\Debug\Modbus软件.csprojAssemblyReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-22-18-00)设置文件修复 - 副本\obj\Debug\Interop.COMSVCSLib.dll
+E:\2、Project\C#\Modbus软件\(20-05-22-18-00)设置文件修复 - 副本\obj\Debug\Modbus软件.csproj.ResolveComReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-22-18-00)设置文件修复 - 副本\obj\Debug\Modbus软件.Form1.resources
+E:\2、Project\C#\Modbus软件\(20-05-22-18-00)设置文件修复 - 副本\obj\Debug\Modbus软件.Properties.Resources.resources
+E:\2、Project\C#\Modbus软件\(20-05-22-18-00)设置文件修复 - 副本\obj\Debug\Modbus软件.csproj.GenerateResource.cache
+E:\2、Project\C#\Modbus软件\(20-05-22-18-00)设置文件修复 - 副本\obj\Debug\Modbus软件.csproj.CoreCompileInputs.cache
+E:\2、Project\C#\Modbus软件\(20-05-22-18-00)设置文件修复 - 副本\obj\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-22-18-00)设置文件修复 - 副本\obj\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-05-25-18-00)帮助文档完成 - 副本\bin\Debug\Modbus软件.exe.config
+E:\2、Project\C#\Modbus软件\(20-05-25-18-00)帮助文档完成 - 副本\bin\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-25-18-00)帮助文档完成 - 副本\bin\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-05-25-18-00)帮助文档完成 - 副本\obj\Debug\Modbus软件.csprojAssemblyReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-25-18-00)帮助文档完成 - 副本\obj\Debug\Interop.COMSVCSLib.dll
+E:\2、Project\C#\Modbus软件\(20-05-25-18-00)帮助文档完成 - 副本\obj\Debug\Modbus软件.csproj.ResolveComReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-25-18-00)帮助文档完成 - 副本\obj\Debug\Modbus软件.Form1.resources
+E:\2、Project\C#\Modbus软件\(20-05-25-18-00)帮助文档完成 - 副本\obj\Debug\Modbus软件.Properties.Resources.resources
+E:\2、Project\C#\Modbus软件\(20-05-25-18-00)帮助文档完成 - 副本\obj\Debug\Modbus软件.csproj.GenerateResource.cache
+E:\2、Project\C#\Modbus软件\(20-05-25-18-00)帮助文档完成 - 副本\obj\Debug\Modbus软件.csproj.CoreCompileInputs.cache
+E:\2、Project\C#\Modbus软件\(20-05-25-18-00)帮助文档完成 - 副本\obj\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-25-18-00)帮助文档完成 - 副本\obj\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-05-26-17-38)更新帮助文档 - 副本\bin\Debug\Modbus软件.exe.config
+E:\2、Project\C#\Modbus软件\(20-05-26-17-38)更新帮助文档 - 副本\bin\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-26-17-38)更新帮助文档 - 副本\bin\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-05-26-17-38)更新帮助文档 - 副本\obj\Debug\Modbus软件.csprojAssemblyReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-26-17-38)更新帮助文档 - 副本\obj\Debug\Interop.COMSVCSLib.dll
+E:\2、Project\C#\Modbus软件\(20-05-26-17-38)更新帮助文档 - 副本\obj\Debug\Modbus软件.csproj.ResolveComReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-26-17-38)更新帮助文档 - 副本\obj\Debug\Modbus软件.Form1.resources
+E:\2、Project\C#\Modbus软件\(20-05-26-17-38)更新帮助文档 - 副本\obj\Debug\Modbus软件.Properties.Resources.resources
+E:\2、Project\C#\Modbus软件\(20-05-26-17-38)更新帮助文档 - 副本\obj\Debug\Modbus软件.csproj.GenerateResource.cache
+E:\2、Project\C#\Modbus软件\(20-05-26-17-38)更新帮助文档 - 副本\obj\Debug\Modbus软件.csproj.CoreCompileInputs.cache
+E:\2、Project\C#\Modbus软件\(20-05-26-17-38)更新帮助文档 - 副本\obj\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-26-17-38)更新帮助文档 - 副本\obj\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体\bin\Debug\Modbus软件.exe.config
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体\bin\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体\bin\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体\obj\Debug\Modbus软件.csprojAssemblyReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体\obj\Debug\Interop.COMSVCSLib.dll
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体\obj\Debug\Modbus软件.csproj.ResolveComReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体\obj\Debug\Modbus软件.Form1.resources
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体\obj\Debug\Modbus软件.Properties.Resources.resources
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体\obj\Debug\Modbus软件.csproj.GenerateResource.cache
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体\obj\Debug\Modbus软件.csproj.CoreCompileInputs.cache
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体\obj\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体\obj\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体 - 副本\bin\Debug\Modbus软件.exe.config
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体 - 副本\bin\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体 - 副本\bin\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体 - 副本\obj\Debug\Modbus软件.csprojAssemblyReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体 - 副本\obj\Debug\Interop.COMSVCSLib.dll
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体 - 副本\obj\Debug\Modbus软件.csproj.ResolveComReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体 - 副本\obj\Debug\Modbus软件.Form1.resources
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体 - 副本\obj\Debug\Modbus软件.Properties.Resources.resources
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体 - 副本\obj\Debug\Modbus软件.csproj.GenerateResource.cache
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体 - 副本\obj\Debug\Modbus软件.csproj.CoreCompileInputs.cache
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体 - 副本\obj\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-27-10-30)弹窗后不可操作窗体 - 副本\obj\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-05-28-22-00)波特率卡死修复\bin\Debug\Modbus软件.exe.config
+E:\2、Project\C#\Modbus软件\(20-05-28-22-00)波特率卡死修复\bin\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-28-22-00)波特率卡死修复\bin\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-05-28-22-00)波特率卡死修复\obj\Debug\Modbus软件.csprojAssemblyReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-28-22-00)波特率卡死修复\obj\Debug\Interop.COMSVCSLib.dll
+E:\2、Project\C#\Modbus软件\(20-05-28-22-00)波特率卡死修复\obj\Debug\Modbus软件.csproj.ResolveComReference.cache
+E:\2、Project\C#\Modbus软件\(20-05-28-22-00)波特率卡死修复\obj\Debug\Modbus软件.Form1.resources
+E:\2、Project\C#\Modbus软件\(20-05-28-22-00)波特率卡死修复\obj\Debug\Modbus软件.Properties.Resources.resources
+E:\2、Project\C#\Modbus软件\(20-05-28-22-00)波特率卡死修复\obj\Debug\Modbus软件.csproj.GenerateResource.cache
+E:\2、Project\C#\Modbus软件\(20-05-28-22-00)波特率卡死修复\obj\Debug\Modbus软件.csproj.CoreCompileInputs.cache
+E:\2、Project\C#\Modbus软件\(20-05-28-22-00)波特率卡死修复\obj\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-05-28-22-00)波特率卡死修复\obj\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-06-01-08-10)输入异常处理\bin\Debug\Modbus软件.exe.config
+E:\2、Project\C#\Modbus软件\(20-06-01-08-10)输入异常处理\bin\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-06-01-08-10)输入异常处理\bin\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-06-01-08-10)输入异常处理\obj\Debug\Modbus软件.csprojAssemblyReference.cache
+E:\2、Project\C#\Modbus软件\(20-06-01-08-10)输入异常处理\obj\Debug\Interop.COMSVCSLib.dll
+E:\2、Project\C#\Modbus软件\(20-06-01-08-10)输入异常处理\obj\Debug\Modbus软件.csproj.ResolveComReference.cache
+E:\2、Project\C#\Modbus软件\(20-06-01-08-10)输入异常处理\obj\Debug\Modbus软件.Form1.resources
+E:\2、Project\C#\Modbus软件\(20-06-01-08-10)输入异常处理\obj\Debug\Modbus软件.Properties.Resources.resources
+E:\2、Project\C#\Modbus软件\(20-06-01-08-10)输入异常处理\obj\Debug\Modbus软件.csproj.GenerateResource.cache
+E:\2、Project\C#\Modbus软件\(20-06-01-08-10)输入异常处理\obj\Debug\Modbus软件.csproj.CoreCompileInputs.cache
+E:\2、Project\C#\Modbus软件\(20-06-01-08-10)输入异常处理\obj\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-06-01-08-10)输入异常处理\obj\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本\bin\Debug\Modbus软件.exe.config
+E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本\bin\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本\bin\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本\obj\Debug\Modbus软件.csprojAssemblyReference.cache
+E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本\obj\Debug\Interop.COMSVCSLib.dll
+E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本\obj\Debug\Modbus软件.csproj.ResolveComReference.cache
+E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本\obj\Debug\Modbus软件.Form1.resources
+E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本\obj\Debug\Modbus软件.Properties.Resources.resources
+E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本\obj\Debug\Modbus软件.csproj.GenerateResource.cache
+E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本\obj\Debug\Modbus软件.csproj.CoreCompileInputs.cache
+E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本\obj\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本\obj\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-06-01-16-16)导入文件异常处理 - 副本\bin\Debug\Modbus软件.exe.config
+E:\2、Project\C#\Modbus软件\(20-06-01-16-16)导入文件异常处理 - 副本\bin\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-06-01-16-16)导入文件异常处理 - 副本\bin\Debug\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-06-01-16-16)导入文件异常处理 - 副本\obj\Debug\Modbus软件.csprojAssemblyReference.cache
+E:\2、Project\C#\Modbus软件\(20-06-01-16-16)导入文件异常处理 - 副本\obj\Debug\Interop.COMSVCSLib.dll
+E:\2、Project\C#\Modbus软件\(20-06-01-16-16)导入文件异常处理 - 副本\obj\Debug\Modbus软件.csproj.ResolveComReference.cache
+E:\2、Project\C#\Modbus软件\(20-06-01-16-16)导入文件异常处理 - 副本\obj\Debug\Modbus软件.Form1.resources
+E:\2、Project\C#\Modbus软件\(20-06-01-16-16)导入文件异常处理 - 副本\obj\Debug\Modbus软件.Properties.Resources.resources
+E:\2、Project\C#\Modbus软件\(20-06-01-16-16)导入文件异常处理 - 副本\obj\Debug\Modbus软件.csproj.GenerateResource.cache
+E:\2、Project\C#\Modbus软件\(20-06-01-16-16)导入文件异常处理 - 副本\obj\Debug\Modbus软件.csproj.CoreCompileInputs.cache
+E:\2、Project\C#\Modbus软件\(20-06-01-16-16)导入文件异常处理 - 副本\obj\Debug\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-06-01-16-16)导入文件异常处理 - 副本\obj\Debug\Modbus软件.pdb
