@@ -93,3 +93,15 @@ E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本
 E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本\obj\Release\Modbus软件.csproj.CoreCompileInputs.cache
 E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本\obj\Release\Modbus软件.exe
 E:\2、Project\C#\Modbus软件\(20-06-01-10-05)导入文件异常处理 - 副本\obj\Release\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-06-04-17-46)导入文件更改为.xls和.xlsx\bin\Release\Modbus软件.exe.config
+E:\2、Project\C#\Modbus软件\(20-06-04-17-46)导入文件更改为.xls和.xlsx\bin\Release\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-06-04-17-46)导入文件更改为.xls和.xlsx\bin\Release\Modbus软件.pdb
+E:\2、Project\C#\Modbus软件\(20-06-04-17-46)导入文件更改为.xls和.xlsx\obj\Release\Modbus软件.csprojAssemblyReference.cache
+E:\2、Project\C#\Modbus软件\(20-06-04-17-46)导入文件更改为.xls和.xlsx\obj\Release\Interop.COMSVCSLib.dll
+E:\2、Project\C#\Modbus软件\(20-06-04-17-46)导入文件更改为.xls和.xlsx\obj\Release\Modbus软件.csproj.ResolveComReference.cache
+E:\2、Project\C#\Modbus软件\(20-06-04-17-46)导入文件更改为.xls和.xlsx\obj\Release\Modbus软件.Form1.resources
+E:\2、Project\C#\Modbus软件\(20-06-04-17-46)导入文件更改为.xls和.xlsx\obj\Release\Modbus软件.Properties.Resources.resources
+E:\2、Project\C#\Modbus软件\(20-06-04-17-46)导入文件更改为.xls和.xlsx\obj\Release\Modbus软件.csproj.GenerateResource.cache
+E:\2、Project\C#\Modbus软件\(20-06-04-17-46)导入文件更改为.xls和.xlsx\obj\Release\Modbus软件.csproj.CoreCompileInputs.cache
+E:\2、Project\C#\Modbus软件\(20-06-04-17-46)导入文件更改为.xls和.xlsx\obj\Release\Modbus软件.exe
+E:\2、Project\C#\Modbus软件\(20-06-04-17-46)导入文件更改为.xls和.xlsx\obj\Release\Modbus软件.pdb

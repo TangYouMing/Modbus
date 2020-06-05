@@ -1809,7 +1809,7 @@ namespace Modbus软件
 
         private void OpenFile_Click(object sender, EventArgs e)
         {
-            openFileDialog1.Filter = "*.xls(*.xls)|*xls";           // 文件筛选器设定
+            openFileDialog1.Filter = "Excel|*.xls;*.xlsx";          // 文件筛选器设定
             openFileDialog1.Title = "传感器参数导入";
 
             string Path = System.IO.Directory.GetParent(System.Environment.CurrentDirectory).Parent.FullName + @"\SenorLibrary";
@@ -1818,48 +1818,47 @@ namespace Modbus软件
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 string FileName = openFileDialog1.FileName;
+                string StrConn = "Provider = Microsoft.Ace.OLEDB.12.0; Data Source = " +
+                                  FileName + "; Extended Properties = 'Excel 12.0; HDR=No; IMEX=1;'";
 
-                StreamReader sr;
+                DataSet dataset = new DataSet();
+
+                OleDbDataAdapter DataBase = new OleDbDataAdapter();
                 try
                 {
-                    sr = new StreamReader(FileName, System.Text.Encoding.GetEncoding("gb2312"));
+                    DataBase = new OleDbDataAdapter("SELECT * FROM [$A1:R65536]", StrConn);  // dt.Rows[0][2].ToString().Trim() 为第个Excel表里第一个Sheet的名字
                 }
-                catch(Exception ex)
+                catch (Exception ex)
                 {
                     MessageBox.Show(ex.Message, "错误");
                     return;
                 }
-
-                string[] RowFileCon = sr.ReadToEnd().Split('\r');   // 读取总个文件内容
-                string[] FileDesc = RowFileCon[0].Split(',');
-                SenorModel.Text = FileDesc[1];
-                VersionTime.Text = FileDesc[3];
-                VersionID.Text = FileDesc[5];
-
-                MyPara.DataTable.Rows.Clear();
-                string[] RowCon = new string[6];
-
-                for (int i = 3; i < RowFileCon.Length - 1; i++)
+                DataBase.Fill(dataset, "Sheet1");                   // Sheet1 并非导入Excel表格名称 是自定义数表的名称
+               
+                if (dataset.Tables["Sheet1"].Columns.Count != 6)
                 {
-                    RowCon = RowFileCon[i].Split(',');
-                    if (RowCon.Length > 6)
-                    {
-                        MessageBox.Show("Excel表格列数超过6列,请检查", "错误");
-                        return;
-                    }
-                     
-                    MyPara.DataTable.Rows.Add(RowCon);
+                    MessageBox.Show("参数表列数错误", "错误");
+                    return;
                 }
 
-                MyPara.Modbus.Mark.OldColorMark = new uint[RowFileCon.Length - 4];
-                MyPara.Modbus.Mark.NewColorMark = new uint[RowFileCon.Length - 4];
-                MyPara.Modbus.Mark.FunCode = new uint[RowFileCon.Length - 4, 2];
-                MyPara.Modbus.Mark.sFunCode = new string[RowFileCon.Length - 4, 2];
-                MyPara.Modbus.Mark.MsgID = new uint[RowFileCon.Length - 4];
-                MyPara.Modbus.Mark.sMsgID = new string[RowFileCon.Length - 4];
+                SenorModel.Text = dataset.Tables["Sheet1"].Rows[0][1].ToString();
+                VersionTime.Text = dataset.Tables["Sheet1"].Rows[0][3].ToString();
+                VersionID.Text = dataset.Tables["Sheet1"].Rows[0][5].ToString();
 
+                MyPara.DataTable.Rows.Clear();
+                for (int i = 3; i < dataset.Tables["Sheet1"].Rows.Count; i++)
+                    MyPara.DataTable.Rows.Add(dataset.Tables["Sheet1"].Rows[i].ItemArray);
+                ParaTable.DataSource = MyPara.DataTable;
+
+                int ParaRowCount = MyPara.DataTable.Rows.Count;
+                MyPara.Modbus.Mark.OldColorMark = new uint[ParaRowCount];
+                MyPara.Modbus.Mark.NewColorMark = new uint[ParaRowCount];
+                MyPara.Modbus.Mark.FunCode = new uint[ParaRowCount, 2];
+                MyPara.Modbus.Mark.sFunCode = new string[ParaRowCount, 2];
+                MyPara.Modbus.Mark.MsgID = new uint[ParaRowCount];
+                MyPara.Modbus.Mark.sMsgID = new string[ParaRowCount];
                 
-                for (int i = 0; i < RowFileCon.Length - 4; i++)     // 1行表格描述 1行空行 1行表头 结尾1行空白  因此减4行
+                for (int i = 0; i < ParaRowCount; i++)              // 1行表格描述 1行空行 1行表头 结尾1行空白  因此减4行
                 {
                     string Row1 = ParaTable.Rows[i].Cells[1].Value.ToString();
                     string[] row = Row1.Split('/');
@@ -1925,7 +1924,7 @@ namespace Modbus软件
                 }
 
                 uint F04Len = 0;
-                for (int i = 0; i < ParaTable.Rows.Count - 1; i++)
+                for (int i = 0; i < ParaRowCount; i++)
                 {
                     if (MyPara.Modbus.Mark.sFunCode[i, 0] == "04")
                         F04Len++;
@@ -1934,7 +1933,7 @@ namespace Modbus软件
 
                 F04Len = 0;
                 bool IsFindF04 = false;
-                for (int i = 0; i < ParaTable.Rows.Count - 1; i++)
+                for (int i = 0; i < ParaRowCount; i++)
                 {
                     if (MyPara.Modbus.Mark.sFunCode[i, 0] == "04")
                     {
@@ -1960,7 +1959,6 @@ namespace Modbus软件
                 MyPara.Modbus.Mark.F04DefineCount = F04Len;
 
                 MyPara.Modbus.Mark.IsImport = true;
-                sr.Close();
             }
         }
 
